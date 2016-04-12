@@ -14,7 +14,7 @@ public class Tester
         while(true)
         {
             System.out.println("1. Instruction to Hex");
-            System.out.println("2. Hex to Intsruction");
+            System.out.println("2. Hex to Instruction");
             System.out.println("3. Done");
             
             System.out.print("Please enter 1, 2 or 3 to choose your option: ");
